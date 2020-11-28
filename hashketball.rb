@@ -13,6 +13,9 @@ jt = { :player_name => "Jason Terry", :number => 31, :shoe => 15, :points => 19,
 #away team variables 
 ja = { :player_name => "Jeff Adrien", :number => 4, :shoe => 18, :points => 10, :rebounds => 1, :assists => 1, :steals => 2, :blocks => 7, :slam_dunks => 2 }
 
+bb = { :player_name => "Bismack Biyombo", :number => 0, :shoe => 16, :points => 12, :rebounds => 4, :assists => 7, :steals => 22, :blocks => 15, :slam_dunks => 10 }
+
+
 
 
 
