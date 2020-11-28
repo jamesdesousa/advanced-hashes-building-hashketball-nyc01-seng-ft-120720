@@ -22,11 +22,10 @@ jt = { :player_name => "Jason Terry", :number => 31, :shoe => 15, :points => 19,
                                 bl,
                                 mp,
                                 jt ]
- }
  },
         :away => {}
  
-   
+ }   
  
                   
                   
