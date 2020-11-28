@@ -44,34 +44,7 @@ kw = { :player_name => "Kemba Walker", :number => 33, :shoe => 15, :points => 6,
                                kw]}
 }   
  
-                  
-                  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- binding.pry 
- #:home => {:team_name => "Brooklyn Nets"},
-#                       {:colors => ["Black", "White"]},
-#                       {:players => [{:player_name => "Alan Anderson",
-#                                      :number => "0",
-#                                      :shoe => "16",
-#                                      :points => "22",
-#                                      :rebounds => "12",
-#                                      :assists => "12",
-#                                      :steals => "3",
-#                                      :blocks => "1",
-#                                      :slam_dunks =>"1"} ]}
- 
+  
    
 end 
     
