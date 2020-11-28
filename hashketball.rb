@@ -16,15 +16,16 @@ jt = { :player_name => "Jason Terry", :number => 31, :shoe => 15, :points => 19,
  
  
  
- hash = {{:home => {:team_name => "Brooklyn Nets", :colors => ["Black", "White"], 
+ hash = {:home => {:team_name => "Brooklyn Nets", :colors => ["Black", "White"], 
                    :players => [aa,
                                 re,
                                 bl,
                                 mp,
                                 jt ]
  }
- }
- }
+ },
+ {:away => {}}
+ 
    
  
                   
